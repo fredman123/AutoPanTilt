@@ -1,1 +1,1 @@
-# AutoPanTilt
+# AutomatedSkyCamera
